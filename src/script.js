@@ -4,6 +4,8 @@ const url = require("./config").API
 
 const lim = 4200
 
+const TO = 500
+
 const slots = {
   "2": "amour",
   "3": "belt",
@@ -16,7 +18,7 @@ const slots = {
   "12": "pet"
 }
 
-let init = 0
+let init = 1287
 
 function getItem(id) {
   req({
@@ -31,7 +33,7 @@ function getItem(id) {
         console.log(`{ "ID": "${res[0].ID}", "Name": "${res[0].Name}", "Type": "${slots[res[0].EquipSlot]}", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url": "" }`)
         }
       }
-      await sleep(100)
+      await sleep(TO)
       getItem(id + 1)
     })
 }
