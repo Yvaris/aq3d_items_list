@@ -7,18 +7,19 @@ const lim = 4200
 const TO = 500
 
 const slots = {
-  "2": "amour",
-  "3": "belt",
+  "2": "armours",
+  "3": "belts",
   "5": "gloves",
   "6": "boots",
   "7": "shoulders",
-  "8": "cape",
-  "9": "helm",
-  "10": "weapon",
-  "12": "pet"
+  "8": "capes",
+  "9": "helms",
+  "10": "weapons",
+  "11": "guns",
+  "12": "pets"
 }
 
-let init = 0
+let init = 1326
 
 function getItem(id) {
   req({
@@ -31,9 +32,9 @@ function getItem(id) {
     if (res[0]) {
       if (res[0].EquipSlot) {
         console.log(
-          `{ "ID": "${res[0].ID}", "Name": "${res[0].Name}", "Type": "${
-            slots[res[0].EquipSlot]
-          }", "Colour": "", "2ndColour": "", "Availability": "", "Gender": "", "url": "" }`
+          `{ id: ${res[0].ID}, name: "${res[0].Name}", type: ${
+            res[0].EquipSlot
+          }, rarity: ${res[0].Rarity}, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },`
         )
       }
     }
