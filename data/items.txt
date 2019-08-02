@@ -1519,7 +1519,7 @@
 { id: 1991, name: "Ogreman's Crunchinator", type: 10, rarity: 1, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 1992, name: "Ogreman's Cleaver", type: 10, rarity: 1, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 1993, name: "Blue Cat Ears", type: 9, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
-{ id: 1994, name: ""Blue Leather" Outfit", type: 2, rarity: 1, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
+{ id: 1994, name: "\"Blue Leather\" Outfit", type: 2, rarity: 1, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 1995, name: "Ogreman's Smash-potato-izer", type: 10, rarity: 1, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 1996, name: "Eternal Seraphic Paladin Blade", type: 10, rarity: 4, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 1997, name: "Dream Warden's Robes", type: 2, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
