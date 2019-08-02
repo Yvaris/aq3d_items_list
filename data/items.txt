@@ -1958,7 +1958,7 @@
 { id: 2510, name: "Expert Rogue Hood", type: 9, rarity: 2, colour: "brown", "2ndColour": "", availability: "normal", url_m: "https://cdn.discordapp.com/attachments/606696626890997780/606696678560497679/20190802_042915.jpg", url_f: "" },
 { id: 2511, name: "Expert Rogue Mask", type: 9, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 2512, name: "Expert Rogue Shoulders", type: 7, rarity: 2, colour: "brown", "2ndColour": "", availability: "normal", url_m: "https://cdn.discordapp.com/attachments/606692861618028554/606696578681536515/20190802_042931.jpg", url_f: "" },
-{ id: 2513, name: "Expert Rogue Pauldrons", type: 7, rarity: 2, colour: "brown", "2ndColour": "grey", availability: "https://cdn.discordapp.com/attachments/606692861618028554/606696530887573505/20190802_042944.jpg", url_m: "", url_f: "" },
+{ id: 2513, name: "Expert Rogue Pauldrons", type: 7, rarity: 2, colour: "brown", "2ndColour": "grey", availability: "normal", url_m: "https://cdn.discordapp.com/attachments/606692861618028554/606696530887573505/20190802_042944.jpg", url_f: "" },
 { id: 2514, name: "Robes of Mist", type: 2, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 2515, name: "Sash Of Mist", type: 3, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
 { id: 2516, name: "Boots of Mist", type: 6, rarity: 2, colour: "", "2ndColour": "", availability: "", url_m: "", url_f: "" },
