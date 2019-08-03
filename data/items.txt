@@ -220,7 +220,7 @@
 { id: 258, name: "Ebon Talon Greaves", type: 6, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
 { id: 259, name: "Ebon Talon Gloves", type: 5, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
 { id: 260, name: "Fiery Wings", type: 8, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
-{ id: 261, name: "Silvered Talon Armor", type: 2, rarity: 2, colour: "grey", "colour2": "yellow", availability: "", url_m: "https://cdn.discordapp.com/attachments/606669444428857354/607150065819189249/grey.silvered_talon_armour.png", url_f: "" },
+{ id: 261, name: "Silvered Talon Armor", type: 2, rarity: 2, colour: "grey", "colour2": "yellow", availability: "normal", url_m: "https://cdn.discordapp.com/attachments/606669444428857354/607150065819189249/grey.silvered_talon_armour.png", url_f: "" },
 { id: 262, name: "Silvered Talon Greaves", type: 6, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
 { id: 263, name: "Silvered Talon Gloves", type: 5, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
 { id: 264, name: "Oroku Uniform", type: 2, rarity: 2, colour: "", "colour2": "", availability: "", url_m: "", url_f: "" },
