@@ -1,4 +1,6 @@
 /src/config.json
+/src/remaining.js
+/src/remaining.sh
 /node_modules/
 /data/items_tmp.txt
 /data/items_bu.txt
