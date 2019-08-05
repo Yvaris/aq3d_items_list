@@ -46,12 +46,6 @@
 65 | King's Ransom
 66 | Sworn Oath
 67 | Nightfall
-68 | Alpha Knight Helm
-69 | Alpha Knight Shoulderplates
-70 | Alpha Knight Belt
-71 | Alpha Knight Armor
-72 | Alpha Knight Boots
-73 | Alpha Knight Gloves
 74 | Police Siren
 75 | Warrior's Shoulderplates
 76 | Swordsmith Pauldrons
@@ -68,7 +62,6 @@
 89 | Bone Bladed Dagger
 90 | Soulborne Axe
 91 | Royal Defender Helm
-100 | Gravedigger's Hat
 101 | Gravedigger's Coat
 103 | Gravedigger's Gloves
 104 | Shovel Blade
@@ -175,12 +168,6 @@
 245 | Faith's Armor
 246 | Faith's Boots
 247 | Faith's Gloves
-249 | Alpha Knight Helm II
-250 | Alpha Knight Shoulderplates II
-251 | Alpha Knight Belt II
-252 | Alpha Knight Boots II
-253 | Alpha Knight Gloves II
-255 | Crusty Innkeeper's Clothes
 256 | Slimy Gloves
 257 | Ebon Talon Armor
 258 | Ebon Talon Greaves
@@ -217,7 +204,6 @@
 300 | Basic Cape
 301 | Capestarter
 304 | Blue Cape
-305 | Green Cape
 310 | Used Sword
 311 | Torn Blue Sash
 312 | Mac'Gyver'd Gloves
@@ -227,7 +213,6 @@
 317 | 2P Cape
 318 | Dark Wings
 324 | Wolf Handler's Gloves
-327 | Medicine Pouch
 333 | Wayker's Root Staff
 336 | Acid Worn Blade
 337 | Exoblade
@@ -263,8 +248,6 @@
 413 | Nightlocke War Axe
 420 | Dark Mage Robe
 421 | Dark Mage Hood
-425 | Optical Mantle
-426 | Zombie Hide Cover
 430 | Bug Zapper
 438 | Lava Fists
 441 | Brutal Horn
@@ -272,7 +255,6 @@
 447 | Cadaver Cutter
 448 | Spiky Sneevil Basher
 449 | Driftwood Staff
-456 | The Bridge Keeper's Axe
 459 | Miner's Hat
 461 | Lit
 462 | RealVik
@@ -302,10 +284,7 @@
 513 | Chipped Tooth Dagger
 514 | Thin Paper Gloves
 531 | Acolyte of Hope
-533 | Shadowed Boots
-534 | Shadowed Gloves
 536 | War Torn Cloak
-538 | Shadowed Shoulders
 539 | Warbrand Axe
 540 | Warbrand Cape
 541 | Warbrand Staff
@@ -974,7 +953,6 @@
 1536 | Eternal Chronomancer Shoulder
 1539 | Frost Defender Armor
 1540 | Eternal Chronomancer Parrying Dagger
-1541 | Meme Cape
 1542 | Frostlorn Raider Claymore
 1543 | Frostlorn Raider Mace
 1544 | Frost Defender Helm
@@ -1026,7 +1004,6 @@
 1599 | Blood Vessel 
 1600 | Magic School Scarf
 1601 | Black Winter Scarf
-1602 | Festive Striped Scarf 
 1603 | Ancient Evil Gloves
 1604 | Ancient Evil Boots
 1605 | Dread Hood Cloak
@@ -1080,7 +1057,6 @@
 1710 | Santa Gloves
 1711 | Santa Fur
 1712 | Santa Hood
-1713 | 15th Anniversary Cape
 1714 | Frostlorn Raider Staff
 1732 | Phoenix Knight Armor
 1733 | Phoenix Knight Belt
@@ -1333,7 +1309,6 @@
 2066 | SoothSayer Cloak
 2067 | ThunderBird Cape
 2068 | SoothSayer Headband
-2069 | SoothSayer Bear Helm
 2070 | SoothSayer Bird Hood
 2071 | SoothSayer Shoulders
 2072 | Falcon Spirit Helm
@@ -1388,11 +1363,9 @@
 2144 | Voidy Cat Ears
 2145 | Reddy Ears
 2146 | Yellow Moglin Ears
-2147 | Mucus Masher
 2148 | Slime Slicer
 2149 | It's Snot a Staff
 2150 | Glop Chopper
-2151 | Nose Digger
 2152 | Primal Sacri'face
 2154 | Mushronin Armor
 2155 | Mushronin Belt
@@ -1443,7 +1416,6 @@
 2204 | Defiler Bandit Gloves
 2205 | Defiler Cape
 2206 | Defiler Bandit Hood
-2207 | Defiler Bandit Shoulders
 2208 | Wing Hook
 2209 | Dragon Tooth Lance
 2210 | Dragon Bone Sword
@@ -1684,7 +1656,6 @@
 2550 | Dark Hooded Mystery Mask
 2551 | Dark Ornate Mask
 2552 | Dark Hooded Ornate Mask
-2553 | Twitch Tier 1 Cloak
 2554 | Twitch Tier 2 Cloak
 2555 | Twitch Tier 3 Cloak
 2556 | Akriloth's Gun
@@ -1943,11 +1914,9 @@
 3016 | Pet Handler Outfit
 3017 | Pet Handling Gloves
 3018 | Corrupted TimeSlicer
-3023 | Guardianzard Pet
 3037 | Corrupted Hourglass Pet
 3040 | Placeholder Rusty Pet
 3046 | Back-Kick Plush
-3055 | Dage Pet, not yours
 3056 | Indiana
 3058 | Korin's Birb Bag
 3059 | Pretty Sword
@@ -2049,7 +2018,6 @@
 3171 | Royal Talon Helm
 3172 | Silvered Talon Helm
 3173 | Royal Talon Shoulderplates
-3174 | Silvered Talon Shoulderplates
 3176 | Shadow Specter Armor
 3177 | Dilligaf Belt
 3178 | Dilligaf Boots
@@ -2059,7 +2027,6 @@
 3183 | Dilligaf Shoulders
 3184 | Thok Armor
 3185 | Thok Belt
-3186 | Thok Boots
 3187 | Thok Gloves
 3188 | Thok Shoulders
 3189 | The Vindicator Armor
@@ -2193,7 +2160,6 @@
 3358 | Frostlorn Necro Fur
 3359 | Frostlorn Necro Shoulders
 3360 | Frostlorn Necro Staff
-3361 | Baby Reindragon
 3363 | Icy Edge
 3365 | Frostlorn Full Horns
 3366 | Icy Gauntlets
@@ -2281,7 +2247,6 @@
 3491 | Lightbringer Helm
 3492 | Lightbringer Shoulders
 3493 | Shadow Walker Armor
-3494 | Shadow Walker Belt
 3495 | Shadow Walker Boots
 3496 | Shadow Walker Gloves
 3497 | Shadow Walker Scarf
@@ -2356,21 +2321,12 @@
 3606 | Sallow Hammer
 3607 | Sallow Staff
 3608 | Sallow Hatchet
-3609 | Legion Heretic Armor
-3610 | Legion Heretic Belt
-3611 | Legion Heretic Boots
-3612 | Legion Heretic Gloves
-3613 | Legion Heretic Helm
-3614 | Legion Heretic Mask
-3615 | Legion Heretic Shoulders
-3616 | Legion Heretic Back Ring
 3617 | Legion Heretic Blade
 3618 | Legion Heretic Spear
 3622 | Legionomicron Pet
 3623 | Legion Dravir Wings
 3625 | Legion Dual Katanas
 3626 | Legion Backhands
-3627 | Chibi Dage Pet
 3630 | Legion Marauder Armor
 3631 | Legion Marauder Belt
 3632 | Legion Marauder Boots
@@ -2389,7 +2345,6 @@
 3657 | Korin's Gettin' Lucky Bag
 3660 | Legion Marauder Pauldrons
 3689 | KS Founder Necromancer
-3694 | Necromancer Hood
 3695 | KS Founder Paladin
 3708 | NecroStaff of Doom
 3709 | Awoken NecroStaff of Doom
