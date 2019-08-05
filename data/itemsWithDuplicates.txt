@@ -1,0 +1,368 @@
+ "Anchor On Your Back", type
+ "AQW 10th Anniversary Helm", type
+ "Arm Floaties", type
+ "Axe of Fins", type
+ "Basic Armor", type
+ "Basic Gun", type
+ "Beachside Fishing Pole", type
+ "Beach Tankard", type
+ "Big Pirate Cutlass", type
+ "Black Knight Cloak", type
+ "Black Winter Scarf", type
+ "Blue  Beachwear", type
+ "Blue Double Starblade", type
+ "Campy Hat", type
+ "Candy Shades", type
+ "Carnivera Scythe", type
+ "Carnivera Wand", type
+ "Chronomancer Backpack", type
+ "Chronomancer Belt", type
+ "Chronomancer Boots", type
+ "Chronomancer Gloves", type
+ "Chronomancer Hood", type
+ "Chronomancer Shoulders", type
+ "Chrono Staff", type
+ "Coldheart Scythe", type
+ "Coldstar Staff", type
+ "Connus Minor Cape", type
+ "Cool Dude Sunglasses", type
+ "Creeping Curse Wand", type
+ "Crimson Summoner's Staff", type
+ "Crown of Twigs", type
+ "Cursed NUMB-Ra Sword", type
+ "Cyberknight Cape", type
+ "Darkest Night", type
+ "Dark Legion's Visage", type
+ "Dead Head", type
+ "Deadly Spider Backback", type
+ "Defiler Bandit Armor", type
+ "Defiler Bandit Belt", type
+ "Defiler Bandit Boots", type
+ "Defiler Bandit Gloves", type
+ "Defiler Bandit Hood", type
+ "Defiler Bandit Shoulders", type
+ "Defiler Cape", type
+ "Doomwood Skull Staff", type
+ "Doomwood Skull Sword", type
+ "Doomwood Skull Warhammer", type
+ "Dragon Bone Axe", type
+ "Dragon Bone Sword", type
+ "Dragon Tooth Lance", type
+ "DreadFool Armor", type
+ "DreadFool Belt", type
+ "DreadFool Boots", type
+ "DreadFool Gloves", type
+ "DreadFool Hood", type
+ "DreadFool Shoulders", type
+ "Dual Energy StarClaws", type
+ "Eye Patch Pirate Hat", type
+ "Eye Patch", type
+ "Fire Scion Armor", type
+ "Fire Scion Boots", type
+ "Fire Scion Cloak", type
+ "Fire Scion Gloves", type
+ "Fire Scion Hooded Mask", type
+ "Fire Scion Sash", type
+ "Fire Scion Scythe", type
+ "Fire Scion Shoulders", type
+ "Flaming Cat Ears", type
+ "Frostlorn Antlers", type
+ "Frostlorn Necro Armor", type
+ "Frostlorn Necro Belt", type
+ "Frostlorn Necro Boots", type
+ "Frostlorn Necro Fur", type
+ "Frostlorn Necro Gloves", type
+ "Frostlorn Necro Hood", type
+ "Frostlorn Necro Shoulders", type
+ "Frostlorn Necro Staff", type
+ "Frostlorn Raider Claymore", type
+ "Frostlorn Raider Lance", type
+ "Frostlorn Raider Scythe ", type
+ "Frostlorn Raider Warhammer", type
+ "Frostlorn Warrior Armor", type
+ "Frostlorn Warrior Belt", type
+ "Frostlorn Warrior Boots", type
+ "Frostlorn Warrior Cloak", type
+ "Frostlorn Warrior Gloves", type
+ "Frostlorn Warrior Helm ", type
+ "Frostlorn Warrior Pelt Hood", type
+ "Frostlorn Warrior Shoulders", type
+ "Frostval Elf Belt", type
+ "Frostval Elf Boots", type
+ "Frostval Elf Gloves", type
+ "Frostval Elf Hat", type
+ "Frostval Elf Suit", type
+ "Frozen Core Blade", type
+ "Galanoth Surfboard ", type
+ "Gingerbread Armor", type
+ "Gingerbread Belt", type
+ "Gingerbread Boots", type
+ "Gingerbread Gloves", type
+ "Gingerbread Head", type
+ "Gingerbread Scarf", type
+ "Glacial Slasher", type
+ "Gold Peg Legs", type
+ "Gorthor's Axe", type
+ "Great White Axe", type
+ "Green Beach Towel", type
+ "Head of NUMB-Ra", type
+ "Herald Of Hope Armor", type
+ "Herald Of Hope Belt", type
+ "Herald Of Hope Boots", type
+ "Herald Of Hope Cape", type
+ "Herald Of Hope Gloves", type
+ "Herald Of Hope Helmet", type
+ "Herald Of Hope Shoulders", type
+ "Heroes Heart Pet", type
+ "Hoarfrost Battleaxe", type
+ "Hulking Trophy", type
+ "Iceborn Crusher", type
+ "Inferno Blade", type
+ "Inferno Helm", type
+ "Katana of the Soul Reaver", type
+ "King's Cutlass", type
+ "Kua Fu's Armor", type
+ "Kua Fu's Belt", type
+ "Kua Fu's Boots", type
+ "Kua Fu's Dagger", type
+ "Kua Fu's Gloves", type
+ "Kua Fu's Helm", type
+ "Kua Fu's Shoulders", type
+ "Kua Fu's Spear", type
+ "Leather Boots", type
+ "Leather Pirate Armor", type
+ "Leather Pirate Boots", type
+ "Leather Pirate Gloves", type
+ "Leather Pirate Hat", type
+ "Left Gold Peg Leg", type
+ "Left Silver Peg Leg", type
+ "Legion Ascendant Armor", type
+ "Legion Ascendant Belt", type
+ "Legion Ascendant Boots", type
+ "Legion Ascendant Gloves", type
+ "Legion Ascendant Hood", type
+ "Legion Ascendant Shoulders", type
+ "Legion Ascendant Staff", type
+ "Legion Backhands", type
+ "Legion Back Surfboard", type
+ "Legion Bone Hammer", type
+ "Legion Cloak of Darkness", type
+ "Legion Dravir Wings", type
+ "Legion Dual Axes", type
+ "Legion Dual Katanas", type
+ "Legion Greatsword", type
+ "Legion Horns", type
+ "Legion Marauder Armor", type
+ "Legion Marauder Belt", type
+ "Legion Marauder Boots", type
+ "Legion Marauder Cape", type
+ "Legion Marauder Gloves", type
+ "Legion Marauder Metal Skull", type
+ "Legion Marauder Pauldrons", type
+ "Legion Marauder Shoulders", type
+ "Legion Marauder Skull ", type
+ "Legionomicron Pet", type
+ "Legion Pistols", type
+ "Legion Spellknives", type
+ "Legion Splitblade", type
+ "Legion's Soul Spike", type
+ "Legion's Visage", type
+ "Legion Zealot Armor", type
+ "Legion Zealot Bookbelt", type
+ "Legion Zealot Boots", type
+ "Legion Zealot Cloak", type
+ "Legion Zealot Gloves", type
+ "Legion Zealot Horned Hood", type
+ "Legion Zealot Scythe", type
+ "Legion Zealot Shoulders", type
+ "Legion Zealot Spellfocus", type
+ "Long Red Frostval Hat", type
+ "Lord Rathbeorn's Cape", type
+ "Lord Rathbeorn's Crown", type
+ "Lore Strider Armor", type
+ "Lore Strider Belt", type
+ "Lore Strider Boots", type
+ "Lore Strider Cape", type
+ "Lore Strider Crown", type
+ "Lore Strider Gloves", type
+ "Lore Strider Shoulders", type
+ "Lore Strider Single Shoulder", type
+ "Lycan Bone Sword", type
+ "Lycan Howl Daggers", type
+ "Lycan Kama Scythe", type
+ "Magic School Scarf", type
+ "Mali's Wake", type
+ "MegaCon Cape", type
+ "Mog-Baka Bow Blaster", type
+ "Mog-Baka", type
+ "Mushronin Armor", type
+ "Mushronin Belt", type
+ "Mushronin Boots", type
+ "Mushronin Cape", type
+ "Mushronin Gloves", type
+ "Mushronin Helm", type
+ "Mushronin Shoulders", type
+ "Mushronin Staff", type
+ "Mushronin Sword", type
+ "Naval Commander Armor", type
+ "Naval Commander Belt", type
+ "Naval Commander Boots", type
+ "Naval Commander Gloves", type
+ "Naval Commander Hat", type
+ "Naval Commander Patch", type
+ "Naval Commander's Cutlass", type
+ "Naval Commander Shoulders", type
+ "Naval Shell Shoulders", type
+ "Nommo Caudal Fins", type
+ "Nommo Dorsal Fin ", type
+ "Nommo Gills", type
+ "Nommo Pectoral Fins", type
+ "Nommo Scales", type
+ "Nommo Shoulder Emblem", type
+ "Nommo Waistwrap", type
+ "NUMB-Ra Armor", type
+ "NUMB-Ra Belt", type
+ "NUMB-Ra Boots", type
+ "NUMB-Ra Cape", type
+ "NUMB-Ra Gloves", type
+ "NUMB-Ra Hooded Head", type
+ "NUMB-Ra Hood", type
+ "NUMB-RA Khopesh", type
+ "NUMB-Ra Scarab Cape", type
+ "NUMB-Ra Shoulders", type
+ "NUMB-Ra Sword", type
+ "Paladin Boots", type
+ "Paladin Shoulderplates", type
+ "Pale Visage", type
+ "Pineapple Drink", type
+ "Pink Rose Hairclip", type
+ "Pink Rose in Mouth", type
+ "Pirate Anchor", type
+ "Pirate Back Shield", type
+ "Pirate Hook", type
+ "Pirate Shell Shoulders", type
+ "Pirate Shield", type
+ "Pirate Ship Wheel", type
+ "Pirate Spyglass", type
+ "Pirate Trident", type
+ "Pistols N Roses", type
+ "Poopdeck", type
+ "Pumpkin Carver Hand", type
+ "Rapier Of Hope", type
+ "Red Beachwear", type
+ "Red Double Starblade", type
+ "Red Elf Belt", type
+ "Red Elf Boots", type
+ "Red Elf Gloves", type
+ "Red Elf Hat", type
+ "Red Elf Mantle", type
+ "Red Elf Suit", type
+ "Red Elf Wrap", type
+ "Red Rose Hairclip", type
+ "Red Rose In Mouth", type
+ "Retro//VR Goggles", type
+ "REUSE", type
+ "Right Gold Peg Leg", type
+ "Right Silver Peg Leg", type
+ "Rose Daggers", type
+ "Rose Knight Armor", type
+ "Rose Knight Belt", type
+ "Rose Knight Blade & Shield", type
+ "Rose Knight Boots", type
+ "Rose Knight Cape", type
+ "Rose Knight Gloves", type
+ "Rose Knight Helmet", type
+ "Rose Knight Robe", type
+ "Rose Knight Shoulders", type
+ "Rose Staff", type
+ "Royal Cutlass", type
+ "Royal Privateer", type
+ "Samhain Skullaxe", type
+ "Samhain Skullscythe", type
+ "Samhain Skullspear", type
+ "Sandy Sandals", type
+ "Scepter of Fins", type
+ "Scuba Tanks", type
+ "Scythe of Thorns", type
+ "Sea Foam Swimsuit", type
+ "Sea Marauder Armor", type
+ "Sea Marauder Belt", type
+ "Sea Marauder Boots", type
+ "Sea Marauder Cannons", type
+ "Sea Marauder Dagger", type
+ "Sea Marauder Gloves", type
+ "Sea Marauder Shoulders", type
+ "Sea Marauder Single Shoulder", type
+ "Sea Marauder Tricorn", type
+ "Sea Maruader Twin Daggers", type
+ "Seed Shooter Pistol", type
+ "Shadowscythe Sentinel Armor", type
+ "Shadowscythe Sentinel Belt", type
+ "Shadowscythe Sentinel Boots", type
+ "Shadowscythe Sentinel Cape", type
+ "Shadowscythe Sentinel Gloves", type
+ "Shadowscythe Sentinel Hood", type
+ "Shadowscythe Sentinel Shoulders", type
+ "Shadowscythe Sentinel Spear", type
+ "Sheathed Soul Reaver", type
+ "Ship Scythe", type
+ "Silver Peg Legs", type
+ "Smashy McSmashface", type
+ "Snorkel", type
+ "Spectral Skullaxe", type
+ "Spectral Skullscythe", type
+ "Spectral Skullspear", type
+ "Squirt Gun", type
+ "Star Stalker Armor", type
+ "Star Stalker Belt", type
+ "Star Stalker Blasters", type
+ "Star Stalker Boots", type
+ "Star Stalker Cape", type
+ "Star Stalker Gloves", type
+ "Star Stalker Helm", type
+ "Star Stalker Shoulders", type
+ "Summer Floral Headband", type
+ "Summer Scrimp Skewer", type
+ "Sunken Cutlass", type
+ "Sun Pet", type
+ "Surfin' Skulls Suit", type
+ "Surf Ready Swimsuit", type
+ "Tangled Lights", type
+ "Toy Soldier Armor", type
+ "Toy Soldier Belt", type
+ "Toy Soldier Boots", type
+ "Toy Soldier Hat", type
+ "Toy Soldier Head", type
+ "Toy Soldier Shoulders", type
+ "Trollukstein Armor", type
+ "Trollukstein Back Reactor", type
+ "Trollukstein Boots", type
+ "Trollukstein Gloves", type
+ "Trollukstein Hammer", type
+ "Trollukstein Head Morph", type
+ "Tusked Blade", type
+ "Tusked Face Shield", type
+ "Tusked Kama", type
+ "Umbrella Lance", type
+ "Unicorn Floatie Belt", type
+ "Vost's Tome", type
+ "Warfiend's Hood", type
+ "Warfiend's Plates", type
+ "Warfiend's Spikes", type
+ "Water's Edge", type
+ "White Beachwear", type
+ "White Rose Armor", type
+ "White Rose Belt", type
+ "White Rose Blade & Shield", type
+ "White Rose Boots", type
+ "White Rose Gloves", type
+ "White Rose Helmet", type
+ "White Rose Robe", type
+ "White Rose Shoulders", type
+ "Wrapped Frostval Staff", type
+ "Wrapped Frostval Sword", type
+ "Wreath Chakram", type
+ "Wreath On Your Back", type
+ "Yellow Sunglasses", type
+ "Yettun Horns", type
+ "Yettun's Icy Cleaver", type
