@@ -1,4 +1,4 @@
-{ id: 2, name: 'Warrior Armor', type: 2, rarity: 2, colour: 'grey', colour2: 'green', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/606669444428857354/606669561831620614/20190802_030412.jpg', url_f: '' },
+{ id: 2, name: 'Warrior Armor', type: 2, rarity: 2, colour: 'grey', colour2: 'green', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/606669444428857354/606669561831620614/20190802_030412.jpg', url_f: 'https://cdn.discordapp.com/attachments/606669444428857354/608539285154693143/Warrior_Armor.png' },
 { id: 3, name: 'Leather Boots', type: 6, rarity: 1, colour: 'brown', colour2: '', availability: 'normal', url_m: 'https://cdn.discordapp.com/attachments/606694950951714817/606869347566354437/unknown.png', url_f: '' },
 { id: 4, name: 'Warrior Boots', type: 6, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 5, name: 'Wristplates', type: 5, rarity: 1, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
