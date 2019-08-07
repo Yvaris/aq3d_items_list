@@ -41,7 +41,7 @@
 { id: 50, name: 'Adventurer\'s Sword', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 51, name: 'Adventurer\'s Dagger', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 52, name: 'Adventurer\'s Staff', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
-{ id: 54, name: 'Retro//VR Goggles', type: 9, rarity: 1, colour: 'black', colour2: 'red', availability: 'dev', url_m: 'https://cdn.discordapp.com/attachments/604209055661031434/607058990517714994/Screenshot_87.png', url_f: 'https://cdn.discordapp.com/attachments/604209055661031434/608566890247487498/Retro_VR_Goggles.png' },
+{ id: 54, name: 'Retro//VR Goggles', type: 9, rarity: 1, colour: 'black', colour2: 'red', availability: 'dev', url_m: 'https://cdn.discordapp.com/attachments/604209055661031434/607058990517714994/Screenshot_87.png', url_f: 'https://cdn.discordapp.com/attachments/604209055661031434/608775391934545934/Retro_VR_Goggles.png' },
 { id: 55, name: 'Azure Sword', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 56, name: 'Crimson Sword', type: 10, rarity: 1, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 57, name: 'Verdant Sword', type: 10, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
