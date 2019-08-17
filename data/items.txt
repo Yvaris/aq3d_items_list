@@ -863,7 +863,7 @@
 { id: 1183, name: 'Black Raven Wings', type: 8, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 1184, name: 'Plutocrat Belt', type: 3, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 1185, name: 'Plutocrat Boots', type: 6, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
-{ id: 1186, name: 'Plutocrat Long Coat', type: 2, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
+{ id: 1186, name: 'Plutocrat Long Coat', type: 2, rarity: 2, colour: "blue", colour2: "black", availability: 'normal', url_m: '', url_f: "https://cdn.discordapp.com/attachments/604199269716459532/612097391767846932/unknown.png" },
 { id: 1187, name: 'Plutocrat Gloves', type: 5, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 1188, name: 'Banker\'s Top Hat', type: 9, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
 { id: 1189, name: 'Top Hat & Monocle', type: 9, rarity: 2, colour: '', colour2: '', availability: '', url_m: '', url_f: '' },
